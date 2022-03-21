@@ -1,0 +1,14 @@
+C:\Users\user\Downloads\PortableGit\BP202\reftask\bin\Debug\netcoreapp3.1\reftask.exe
+C:\Users\user\Downloads\PortableGit\BP202\reftask\bin\Debug\netcoreapp3.1\reftask.deps.json
+C:\Users\user\Downloads\PortableGit\BP202\reftask\bin\Debug\netcoreapp3.1\reftask.runtimeconfig.json
+C:\Users\user\Downloads\PortableGit\BP202\reftask\bin\Debug\netcoreapp3.1\reftask.runtimeconfig.dev.json
+C:\Users\user\Downloads\PortableGit\BP202\reftask\bin\Debug\netcoreapp3.1\reftask.dll
+C:\Users\user\Downloads\PortableGit\BP202\reftask\bin\Debug\netcoreapp3.1\reftask.pdb
+C:\Users\user\Downloads\PortableGit\BP202\reftask\obj\Debug\netcoreapp3.1\reftask.csproj.AssemblyReference.cache
+C:\Users\user\Downloads\PortableGit\BP202\reftask\obj\Debug\netcoreapp3.1\reftask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Downloads\PortableGit\BP202\reftask\obj\Debug\netcoreapp3.1\reftask.AssemblyInfoInputs.cache
+C:\Users\user\Downloads\PortableGit\BP202\reftask\obj\Debug\netcoreapp3.1\reftask.AssemblyInfo.cs
+C:\Users\user\Downloads\PortableGit\BP202\reftask\obj\Debug\netcoreapp3.1\reftask.csproj.CoreCompileInputs.cache
+C:\Users\user\Downloads\PortableGit\BP202\reftask\obj\Debug\netcoreapp3.1\reftask.dll
+C:\Users\user\Downloads\PortableGit\BP202\reftask\obj\Debug\netcoreapp3.1\reftask.pdb
+C:\Users\user\Downloads\PortableGit\BP202\reftask\obj\Debug\netcoreapp3.1\reftask.genruntimeconfig.cache
